@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: false # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: hido Kim
@@ -17,7 +17,7 @@ sidebar:
     phone: 010 0000 0000
     timezone: # korean/ Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: # blog.webjeda.com #do not add http://
     linkedin: 
     xing: 
     github: hidokim
@@ -33,14 +33,14 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Korean
+          level: Native
+
         - idiom: English
-          level: # Native
+          level: Educated
 
-        - idiom: # French
+        - idiom: # Spanish
           level: # Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Gachon Univ. in Computer Science
+        university: University of Korea
+        time: 2022~
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,17 +77,17 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: # BSc in Applied Mathematics
+        university: # Bristol University
+        time: # 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         # Describe your study here lorem ipsum dolor sit amet, consectetuer
+         # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+         # sociis natoque penatibus et magnis dis parturient montes, nascetur
+         # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+         # pretium quis, sem.
+          #  - Bullet point
+          #  - Bullet point 
 
 experiences:
     title: Experiences
