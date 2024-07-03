@@ -16,7 +16,7 @@ sidebar:
     email: kimdoyeon0113@naver.com
     phone: 010 0000 0000
     timezone: # korean/ Timezone
-    citizenship:
+    citizenship: Korea
     website: # blog.webjeda.com #do not add http://
     linkedin: 
     xing: 
@@ -39,19 +39,19 @@ sidebar:
         - idiom: English
           level: Educated
 
-        - idiom: # Spanish
-          level: # Professional
+        - idiom: Japanese
+          level: a little bit
 
     interests:
       title: Interests
       info:
-        - item: # Climbing
+        - item: gym
           link:
 
-        - item: # Snowboarding
+        - item: frontend
           link:
 
-        - item: # Cooking
+        - item: #
           link:
 
 career-profile:
@@ -68,7 +68,7 @@ education:
     info:
       - degree: Gachon Univ. in Computer Science
         university: University of Korea
-        time: 2022~
+        time: 2023~
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
