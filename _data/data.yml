@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: kimdoyeon0113@naver.com
-    phone: 010 0000 0000
+    # phone: 010 0000 0000
     timezone: # korean/ Timezone
     citizenship: Korea
     website: # blog.webjeda.com #do not add http://
@@ -233,16 +233,16 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 80%
 
       - name: Javascript
-        level: 80%
+        level: 60%
 
       - name: C11
         level: 90%
 
       - name: HTML5 & CSS
-        level: 90%
+        level: 80%
 
       - name: Cad
         level: 70%
